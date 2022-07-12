@@ -1,4 +1,4 @@
-# Azom Laptop - Heating Issue 
+# Azom Laptop - Heating Issue (2020)
 
 ## Laptop Cleaning and Thermal Gel applied on 19-Dec-2020 at Local Shop
 
@@ -22,7 +22,7 @@
 
 ## Image 5
 
-![](./images//IMG_20201219_161653.jpg"Image 5")
+![](./images//IMG_20201219_161653.jpg "Image 5")
 
 ## Image 6
 
@@ -30,7 +30,7 @@
 
 ## Image 7
 
-![](./images/IMG_20201219_161713.jpg"Image 7")
+![](./images/IMG_20201219_161713.jpg "Image 7")
 
 ## Image 8
 
