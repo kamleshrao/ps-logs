@@ -1,3 +1,3 @@
-# Logs of Product and Services I consume
+# Logs of Product and Services that I consume (Kamlesh Rao)
 
-## Under construction
+## This site is always under construction
