@@ -1,7 +1,6 @@
 # ACT Fibernet Broadband 
 
-## GitHub Images not loading
+## [GitHub Images not loading](./github-images-issue.md)
 
-Below is a .NET 20 Year Banner Image:
 
 
