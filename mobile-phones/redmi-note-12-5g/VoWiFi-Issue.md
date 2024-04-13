@@ -18,13 +18,15 @@ Wired Broadband Connections
 1. The Airtel SIM1 does not shows VoWiFi **most of the time**.  Rarely (random time) the Airtel SIM1 shows VoWiFi for few seconds and it again disappears.
 1. I have two Wired Broadband Connections (ACT Fibernet and Hathway) at Home and I have verified the same result on both. 
 
-## My Observation
-1. Before RN12-5G, I had Redmi Note 7 Pro (RN7Pro) phone.
-1. On my RN7Pro, VoWiFi was working perfectly alright on both Airtel and Jio SIM
-
-## My Troubleshooting
+## My Troubleshooting (on RN12-5G)
 1. I tried to swap SIM1 and SIM2. But got the same VoWiFi issue with  Airtel.
 1. I got the Airtel SIM changed.  But got the same VoWiFi issue with Airtel 
+
+## My Observation
+1. Before RN12-5G, I had Redmi Note 7 Pro (RN7Pro) phone. On my RN7Pro, VoWiFi was working perfectly alright on both Airtel and Jio SIM.
+1. My Wife is using `Samsung Galaxy M21 2021 Edition` and VoWiFi is working fine on her Airtel SIM.
+1. My Son is using `Vivo Y33s` and VoWiFi is working fine on his Airtel SIM.
+
 
 ## Screenshots 
 
