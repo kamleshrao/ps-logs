@@ -1,6 +1,6 @@
 # Redmi Note 12 5G - VoWiFi Issue with Airtel SIM
 
-## My Setup Details (2023)
+## My Setup Details 
 ```
 SIM 1 - Airtel 
 SIM 2 - Jio 
