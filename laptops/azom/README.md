@@ -2,7 +2,7 @@
 
 ```
 Barebone: Clevo P775DM
-Processor: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz   3.40 GHz
+Processor: Intel(R) Core(TM) i7-6700 CPU 3.40 GHz
 RAM: 64.0 GB (GSkill DDR4 2133 Mhz)
 GPU: NVIDIA Quadro M1000M 2GB GDDR5
 Storage:
