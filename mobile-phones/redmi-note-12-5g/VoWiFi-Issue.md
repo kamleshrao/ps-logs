@@ -53,3 +53,8 @@ Now, with the above background, let me come to the detail of my issue.
 
 ### SIM 1 - Airtel, SIM 2 - Jio (02-Oct-2023)
 ![Image](./images/RN12-5G-VoWiFi-20231002-0933.jpg)
+
+## Fix 
+Found a fix for VoWiFi issue with Airtel. 
+- Airtel by default uses Mobile Network option.  You need to change this to WiFi 
+- This behavior is happening on Redmi Note 12 5G. The same was not happening on Redmi Note 7 Pro 
