@@ -1,0 +1,20 @@
+C:\Windows\system32>chkdsk f: /f /r /x
+The type of the file system is FAT32.
+Volume Serial Number is 67D5-5C88
+Windows is verifying files and folders...
+File and folder verification is complete.
+Windows is verifying free space...
+Free space verification is complete.
+
+Windows has scanned the file system and found no problems.
+No further action is required.
+  124,835,840 KB total disk space.
+          128 KB in 2 hidden files.
+   44,194,240 KB in 1,691 files.
+   80,641,408 KB are available.
+
+       65,536 bytes in each allocation unit.
+    1,950,560 total allocation units on disk.
+    1,260,022 allocation units available on disk.
+
+C:\Windows\system32>
