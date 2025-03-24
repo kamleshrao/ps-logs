@@ -1,9 +1,9 @@
 # Mobile Service Providers
 
-## Airtel 
+## [Airtel](./airtel/README.md) 
 
 ## [Jio](./jio/README.md) 
 
-## BSNL 
+## [BSNL](./bsnl/README.md) 
 
-## Vodafone Idea
+## [VI](./vi/README.md)
