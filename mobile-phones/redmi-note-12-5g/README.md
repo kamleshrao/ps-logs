@@ -1,3 +1,4 @@
 # Redmi Note 12 5G
 
-[VoWiFi Issue](./VoWiFi-Issue.md)
+- [Amazon Music Issue](./Amazon-Music-Issue.md)
+- [VoWiFi Issue](./VoWiFi-Issue.md)
